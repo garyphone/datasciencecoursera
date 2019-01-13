@@ -1,4 +1,4 @@
-# This file is used to obtain the tidy data, based on 
+# This file is used to obtain the tidy data, based on (https://rpubs.com/ninjazzle/DS-JHU-3-4-Final) 
 
 # load required packages
 
