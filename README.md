@@ -31,3 +31,35 @@ required as described in the course project’s definition:
 	* From the data set in step 4, creates a second, independent tidy data set with the average of 
 	each variable for each activity and each subject.
 
+* `CodeBook.md` is a code book that introduces the variables, the data, and any transformations or works to
+clean up the data.
+
+* `tidy_data.txt` is the obtained data after using the R script.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
